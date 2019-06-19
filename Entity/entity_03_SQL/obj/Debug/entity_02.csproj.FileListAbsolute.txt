@@ -1,0 +1,2 @@
+C:\Benner\alura\Entity\entity_03_eeee\obj\Debug\entity_02.csprojAssemblyReference.cache
+C:\Benner\alura\Entity\entity_03_eeee\obj\Debug\entity_02.csproj.CoreCompileInputs.cache

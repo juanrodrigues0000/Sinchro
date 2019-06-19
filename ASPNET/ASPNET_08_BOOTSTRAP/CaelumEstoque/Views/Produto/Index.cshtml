@@ -1,0 +1,23 @@
+﻿@model IList<CaelumEstoque.Models.Produto>
+
+
+
+                <table class="table table-hover">
+                    <thread>
+                        <tr>
+                            <th>Id</th>
+                            <th>Nome</th>
+                            <th>Quantidade</th>
+                        </tr>
+                    </thread>
+                    <tbody>
+                        @foreach (var produto in Model)
+                        {
+                        <tr>
+                            <td>@produto.Id</td>
+                            <td>@Html.RouteLink(produto.Nome, "VisualizaProduto", new { id = produto.Id })</td>
+                            <td>@produto.Quantidade</td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
