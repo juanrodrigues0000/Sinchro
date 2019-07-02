@@ -1,0 +1,29 @@
+C:\Users\stag009\source\repos\Orcamento\Orcamento\obj\Debug\Orcamento.csprojAssemblyReference.cache
+C:\Users\stag009\source\repos\Orcamento\Orcamento\obj\Debug\Orcamento.csproj.CoreCompileInputs.cache
+C:\Users\stag009\source\repos\Orcamento\Orcamento\bin\Debug\Orcamento.exe.config
+C:\Users\stag009\source\repos\Orcamento\Orcamento\bin\Debug\Orcamento.exe
+C:\Users\stag009\source\repos\Orcamento\Orcamento\bin\Debug\Orcamento.pdb
+C:\Users\stag009\source\repos\Orcamento\Orcamento\obj\Debug\Orcamento.exe
+C:\Users\stag009\source\repos\Orcamento\Orcamento\obj\Debug\Orcamento.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY\Orcamento\obj\Debug\Orcamento.csprojAssemblyReference.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY\Orcamento\obj\Debug\Orcamento.csproj.CoreCompileInputs.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY\Orcamento\obj\Debug\Orcamento.exe
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY\Orcamento\obj\Debug\Orcamento.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY\Orcamento\bin\Debug\Orcamento.exe.config
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY\Orcamento\bin\Debug\Orcamento.exe
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY\Orcamento\bin\Debug\Orcamento.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY - Copy\Orcamento\obj\Debug\Orcamento.csprojAssemblyReference.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY - Copy\Orcamento\obj\Debug\Orcamento.csproj.CoreCompileInputs.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY - Copy\Orcamento\obj\Debug\Orcamento.exe
+C:\Users\stag009\Desktop\DESIGNPATTERNS_01_STRATEGY - Copy\Orcamento\obj\Debug\Orcamento.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERNS_03_TEMPLATE_METHOD\Orcamento\obj\Debug\Orcamento.csprojAssemblyReference.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_03_TEMPLATE_METHOD\Orcamento\obj\Debug\Orcamento.csproj.CoreCompileInputs.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_03_TEMPLATE_METHOD\Orcamento\obj\Debug\Orcamento.exe
+C:\Users\stag009\Desktop\DESIGNPATTERNS_03_TEMPLATE_METHOD\Orcamento\obj\Debug\Orcamento.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERNS_04_DECORATOR\Orcamento\obj\Debug\Orcamento.csprojAssemblyReference.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_04_DECORATOR\Orcamento\obj\Debug\Orcamento.csproj.CoreCompileInputs.cache
+C:\Users\stag009\Desktop\DESIGNPATTERNS_04_DECORATOR\Orcamento\obj\Debug\Orcamento.exe
+C:\Users\stag009\Desktop\DESIGNPATTERNS_04_DECORATOR\Orcamento\obj\Debug\Orcamento.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERNS_04_DECORATOR\Orcamento\bin\Debug\Orcamento.exe.config
+C:\Users\stag009\Desktop\DESIGNPATTERNS_04_DECORATOR\Orcamento\bin\Debug\Orcamento.exe
+C:\Users\stag009\Desktop\DESIGNPATTERNS_04_DECORATOR\Orcamento\bin\Debug\Orcamento.pdb

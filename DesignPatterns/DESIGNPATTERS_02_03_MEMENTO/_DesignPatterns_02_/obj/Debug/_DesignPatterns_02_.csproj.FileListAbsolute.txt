@@ -1,0 +1,14 @@
+C:\Users\stag009\Desktop\DESIGNPATTERS_02_FLYWEIGHT\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.csprojAssemblyReference.cache
+C:\Users\stag009\Desktop\DESIGNPATTERS_02_FLYWEIGHT\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.csproj.CoreCompileInputs.cache
+C:\Users\stag009\Desktop\DESIGNPATTERS_02_FLYWEIGHT\_DesignPatterns_02_\bin\Debug\_DesignPatterns_02_.exe.config
+C:\Users\stag009\Desktop\DESIGNPATTERS_02_FLYWEIGHT\_DesignPatterns_02_\bin\Debug\_DesignPatterns_02_.exe
+C:\Users\stag009\Desktop\DESIGNPATTERS_02_FLYWEIGHT\_DesignPatterns_02_\bin\Debug\_DesignPatterns_02_.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERS_02_FLYWEIGHT\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.exe
+C:\Users\stag009\Desktop\DESIGNPATTERS_02_FLYWEIGHT\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERS_03_MEMENTO\_DesignPatterns_02_\bin\Debug\_DesignPatterns_02_.exe.config
+C:\Users\stag009\Desktop\DESIGNPATTERS_03_MEMENTO\_DesignPatterns_02_\bin\Debug\_DesignPatterns_02_.exe
+C:\Users\stag009\Desktop\DESIGNPATTERS_03_MEMENTO\_DesignPatterns_02_\bin\Debug\_DesignPatterns_02_.pdb
+C:\Users\stag009\Desktop\DESIGNPATTERS_03_MEMENTO\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.csprojAssemblyReference.cache
+C:\Users\stag009\Desktop\DESIGNPATTERS_03_MEMENTO\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.csproj.CoreCompileInputs.cache
+C:\Users\stag009\Desktop\DESIGNPATTERS_03_MEMENTO\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.exe
+C:\Users\stag009\Desktop\DESIGNPATTERS_03_MEMENTO\_DesignPatterns_02_\obj\Debug\_DesignPatterns_02_.pdb
