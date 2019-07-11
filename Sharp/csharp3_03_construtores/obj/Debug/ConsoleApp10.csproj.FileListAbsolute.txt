@@ -1,0 +1,2 @@
+C:\Users\stag009\Music\csharp3_03_construtores\obj\Debug\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\stag009\Music\csharp3_03_construtores\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache

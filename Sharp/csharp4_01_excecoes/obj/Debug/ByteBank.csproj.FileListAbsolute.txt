@@ -1,0 +1,7 @@
+C:\Users\stag009\Music\csharp4_01_excecoes\bin\Debug\ByteBank.exe.config
+C:\Users\stag009\Music\csharp4_01_excecoes\bin\Debug\ByteBank.exe
+C:\Users\stag009\Music\csharp4_01_excecoes\bin\Debug\ByteBank.pdb
+C:\Users\stag009\Music\csharp4_01_excecoes\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\stag009\Music\csharp4_01_excecoes\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\stag009\Music\csharp4_01_excecoes\obj\Debug\ByteBank.exe
+C:\Users\stag009\Music\csharp4_01_excecoes\obj\Debug\ByteBank.pdb
